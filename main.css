@@ -1,0 +1,118 @@
+.sec{
+    background-image: url(R\ \(10\).jpg);
+    background-size: cover;
+
+}
+section h1{
+    color:#ffffff;
+   display: flex;
+   flex-wrap: wrap;
+    font:25px lighter sens-serif;
+    text-decoration: 5px solid underline blue;
+
+}
+.div{
+    display: flex;
+    font-display:flex;
+    margin:2px;
+    font:20px white bolder;
+    flex-wrap: wrap;
+    color:#ffffff;
+
+
+}
+.hh{
+    color:white;
+    padding:10px 10px;
+    font: 20px light sens-serif;
+}
+body{
+    text-shadow: 244 1px 234 ;
+}
+.helo{
+    background-image: url(abstract-background-colors.jpg);
+    background-size:cover;
+    padding:10px 10px;
+    display:flex;
+    flex-wrap: wrap;
+    font:12px lighter sens-serif;
+    margin: 30px;
+}
+.end{
+    background-image: url(R\ \(3\).jpg);
+display: flex;
+flex-wrap: wrap;
+padding:2px 2px;
+
+
+}
+.art{
+    font:12px bold red sens-serif;
+    text-align: center;
+    padding:30px 50px;
+}
+a:hover{
+    color:red;
+    font:15px bolder green sens-serif;
+}
+a:active{
+    font:14px white sens-serif;
+}
+.head{
+   
+    font:14px whie bolder sens-serif;
+}
+.end p{
+    font:25px whie bolder sens-serif;
+}
+.end a{
+    color:green;
+    font: 15px bolder;
+
+}
+.end a:hover{
+    color:red;
+    font: 15px bolder sens-serif;
+}
+.forest{
+    background-image: url(forest-landscape-16.jpg);
+    background-size: cover;
+    text-align: center;
+    text-decoration:dashed 5px solid blue;
+    padding:30px 30px;
+}
+.forestdiv{
+    padding: 20px 40px;
+font:25px white bolder sens-serif;
+text-align: center;
+text-transform: uppercase;
+text-shadow: 10px 5px 31px 10px;
+
+}
+.heading{
+    text-align:center;
+    text-transform: capitalize;
+    font:30px rgb(248, 242, 242) bolder sens-serif;
+    
+}
+.about{
+    display:flex;
+    font:30px  bolder rgb(199, 199, 193) arial,sans-serif;
+    padding:10px 10px;
+
+}
+.about p{
+    color:white;
+}
+.sum{
+    text-align: center;
+    background-color:white;
+    font:20px green areill bolder;
+
+
+}
+.sum h1{
+    color:black;
+    text-align: center;
+    padding:2px 500px;
+}

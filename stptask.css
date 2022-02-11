@@ -1,0 +1,108 @@
+.sec1{
+    background-image: url(./Aerial-view-of-green-forest-wallpaper.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.div1{
+text-align: center;
+padding:50px 50px;
+color:white ;
+font:20px lighter ;
+
+
+
+}
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.sec2{
+    display: flex;
+    background-color:green;
+
+}
+.div3{
+    padding:2% 10%;
+    display: flex;
+    color:white;
+    font:20px lighter sens-serif ;
+}
+.div4{
+    display: flex;
+    justify-items: center;
+}
+.img-div img{
+    width: 40%;
+}
+.pic{
+    padding:100% 10%;
+display: flex;
+font:15px lighter black;
+padding:30px 60px;
+word-spacing: 3px;
+text-decoration: dashed ;
+
+}
+.space{
+    text-align: center;
+
+}
+.sapce h1{
+    color:mediumseagreen;
+    font:20px bolder;
+}
+.seco{
+    background-image: url(OIP\ \(8\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.secoo{
+    padding: 10%;
+    text-align:center;
+    font:20px lighter white;
+    color:white;
+}
+.secoo input{
+    padding:9px 5px;
+    width:30%;
+    height:20px;
+    margin:5px;
+    size:80px;
+    border:4px solid blue;
+    border-radius:5px;
+}
+#idd{
+    background-color:green;
+    height:30px;
+    width:290px;
+    color:white;
+    
+}
+#sec22{
+    padding:10px 40px;
+    display: flex;
+
+}
+#diiv{
+display: flex;
+justify-content: flex;
+}
+.flexx{
+    padding:10px 50px;
+    display: flex;
+    justify-content: center;
+}
+#diiv3{
+    padding:1%;
+}
+.diiv4{
+    justify-content:center;
+    margin:50%;
+}
+.vi{
+    justify-content:just;
+    display: flex;
+}
